@@ -17,14 +17,12 @@
     <DefineConstants>$(DefineConstants);DCFv1;DBInfo;ALARM_SQUASHING</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Skyline.DataMiner.Dev.Automation" Version="10.2.0.10" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="DataMinerSolutions">
       <HintPath>C:\Skyline DataMiner\ProtocolScripts\DataMinerSolutions.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>C:\Skyline DataMiner\ProtocolScripts\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib" />
   </ItemGroup>
