@@ -13,6 +13,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dlls", "Dlls", "{2D349B2E-EC48-4F28-AC9D-5380E10D2E26}"
 	ProjectSection(SolutionItems) = preProject
 		Dlls\ABOUT.md = Dlls\ABOUT.md
+		..\..\..\..\Skyline DataMiner\ProtocolScripts\DataMinerSolutions.dll = ..\..\..\..\Skyline DataMiner\ProtocolScripts\DataMinerSolutions.dll
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompanionFiles", "CompanionFiles", "{61CE775D-C1BC-4B34-B8AB-0FA7F65AB94F}"
