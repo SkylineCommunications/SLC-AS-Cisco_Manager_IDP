@@ -60,7 +60,7 @@ using Skyline.DataMiner.Automation;
 using Skyline.DataMiner.DataMinerSolutions.IDP.ConfigurationManagement;
 using Skyline.DataMiner.DataMinerSolutions.IDP.Templates.Configuration;
 
-public partial class Script
+public class Script
 {
 	//IP Address of FTP Server. Machine also exposes destination folder via SMB
 	public static readonly string tFtp = "192.164.206.5";
