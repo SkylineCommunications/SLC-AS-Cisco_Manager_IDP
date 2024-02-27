@@ -4,7 +4,7 @@
 	<Type>Automation</Type>
 	<Author>SKYLINE2\AndriesDK</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder></Folder>
+	<Folder>DataMiner Solutions/IDP/CI Type Management/Configuration Management/Backup</Folder>
 	<Protocols> </Protocols>
 	<Memory> </Memory>
 	<Parameters>

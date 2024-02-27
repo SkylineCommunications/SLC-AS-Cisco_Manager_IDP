@@ -1,15 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+﻿<DMSScript xmlns="http://www.skyline.be/automation" options="272">
 	<Name>IDP_Custom_ConfigurationUpdate_CiscoManager</Name>
 	<Description />
 	<Type>Automation</Type>
 	<Author>SKYLINE2\AndriesDK</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder></Folder>
-	<Protocols>
-	</Protocols>
-	<Memory>
-	</Memory>
+	<Folder>DataMiner Solutions/IDP/CI Type Management/Configuration Management/Default</Folder>
+	<Protocols> </Protocols>
+	<Memory> </Memory>
 	<Parameters>
 		<ScriptParameter id="1" type="string" values="">
 			<Description>Guid</Description>
